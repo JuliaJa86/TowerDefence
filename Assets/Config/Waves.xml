@@ -1,0 +1,6 @@
+<xml>
+<interval>2,5</interval>
+<!-- For future purposes -->
+<!-- For now this parameters are hardcoded -->
+<wave1 numEnemies="5" gap="1.5" damage="2" health="4" reward="20"/>
+</xml>
